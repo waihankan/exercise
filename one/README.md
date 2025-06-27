@@ -189,10 +189,16 @@ Revise: The exposed `.git` led us to recover the entire repository history and f
 
 Lesson: The `com.png` with 403 permission was probably a red herring and I got distracted. I should have checked the git logs first.
 
+## Exploit / Solution
+
+```
+git show $(cat .git/ORIG_HEAD)
+```
+
 ## Flag
 
 ```
-+hkcert22{n0stalgic_w3bs1t3_br1ings_m3_b4ck_to_2000}
+hkcert22{n0stalgic_w3bs1t3_br1ings_m3_b4ck_to_2000}
 ```
 
 ## Lessons Learned
