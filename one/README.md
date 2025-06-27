@@ -1,7 +1,5 @@
-
-
-Name : Wai Han
-Challenge One
+* Name : Wai Han
+* Challenge One
 
 ---
 
