@@ -6,6 +6,7 @@ Welcome to my write‑up repo for two web‑based CTF puzzles. Each solution liv
 
 📁 Repository Layout
 
+```
 .
 ├── one/                # Challenge #1 – Nginx auto‑index & .git
 │   ├── Dockerfile
@@ -18,11 +19,11 @@ Welcome to my write‑up repo for two web‑based CTF puzzles. Each solution liv
 │   ├── docker-compose.yml
 │   └── README.md       # full exploit write‑up for challenge #2
 └── README.md           # ← you are here
-
+```
 
 ### References:
 
 Claude Chat Logs: 
 
-One - https://claude.ai/share/889c39a6-b89a-4e06-bdf0-fe30a21d39e7
-Two - https://claude.ai/share/fa0a54f5-3a3f-4c48-aa4c-722d1f230ca7
+* One - https://claude.ai/share/889c39a6-b89a-4e06-bdf0-fe30a21d39e7
+* Two - https://claude.ai/share/fa0a54f5-3a3f-4c48-aa4c-722d1f230ca7
