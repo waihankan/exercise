@@ -27,3 +27,8 @@ Claude Chat Logs:
 
 * One - https://claude.ai/share/889c39a6-b89a-4e06-bdf0-fe30a21d39e7
 * Two - https://claude.ai/share/fa0a54f5-3a3f-4c48-aa4c-722d1f230ca7
+
+
+#### Notes:
+
+> I'm brand new to CTFs—these were my very first puzzles. As a result I spent well beyond the 'expected' solve window because I was learning tooling and techniques on the fly.
